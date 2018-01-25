@@ -1,2 +1,2 @@
-# Project3-1
-Word Count project
+# Project3
+Word Count
